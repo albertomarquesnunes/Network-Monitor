@@ -1,0 +1,14 @@
+D:\Phoenix\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.csproj.AssemblyReference.cache
+D:\Phoenix\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.Form1.resources
+D:\Phoenix\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.Properties.Resources.resources
+D:\Phoenix\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.csproj.GenerateResource.cache
+D:\Phoenix\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.csproj.CoreCompileInputs.cache
+D:\Phoenix\NetworkMonitor\NetworkMonitor\bin\Debug\NetworkMonitor.exe.config
+D:\Phoenix\NetworkMonitor\NetworkMonitor\bin\Debug\NetworkMonitor.exe
+D:\Phoenix\NetworkMonitor\NetworkMonitor\bin\Debug\NetworkMonitor.pdb
+D:\Phoenix\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.exe
+D:\Phoenix\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.pdb
+D:\Phoenix\NetworkMonitor\NetworkMonitor\bin\Debug\NetworkMonitor.exe.manifest
+D:\Phoenix\NetworkMonitor\NetworkMonitor\bin\Debug\NetworkMonitor.application
+D:\Phoenix\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.exe.manifest
+D:\Phoenix\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.application
